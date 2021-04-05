@@ -1,0 +1,23 @@
+{
+  "name": "jestTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainczech/jestTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainczech/jestTesting/issues"
+  },
+  "homepage": "https://github.com/rainczech/jestTesting#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
